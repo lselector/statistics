@@ -1,0 +1,10 @@
+**/.ipynb_checkpoints
+**/junk*.*
+**/.DS_Store
+**/__pycache__/
+**/OLD/
+**/SKIP/
+**/*.py[cod]
+**/Thumbs.db
+*_pdf.txt
+*_ppt.txt
