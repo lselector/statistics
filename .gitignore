@@ -2,9 +2,10 @@
 **/junk*.*
 **/.DS_Store
 **/__pycache__/
-**/OLD/
-**/SKIP/
 **/*.py[cod]
 **/Thumbs.db
+**/OLD
+**/SKIP
+**/~*
 *_pdf.txt
 *_ppt.txt
