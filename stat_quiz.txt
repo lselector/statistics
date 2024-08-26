@@ -1,0 +1,135 @@
+
+15 questions quiz in statistics
+by Keith McNulty
+https://keith-mcnulty.medium.com/fifteen-questions-to-test-your-statistics-knowledge-da4d74742abc
+
+The Quiz
+
+1. Fill in the gap: The standard deviation of a sample
+is the square root of the ______ of that sample.
+
+2. What is the difference between the formulas for the
+standard deviation of a sample and the standard
+deviation of a population?
+
+3. What statistical hypothesis test can be applied to
+two samples of categorical data with the same
+categories to determine if the frequency distributions
+are significantly different?
+
+4. What does the term heteroscedastic mean?
+
+5. Name the following theorem:  P(B)P(A|B) = P(A)P(B|A)
+
+6. A statistician used linear regression to model a
+dependent variable which was a survey rating on a
+Likert scale from 1 to 5. Name one reason why linear
+regression is a poor choice of regression model in
+this case.
+
+7. Describe how to calculate the R-squared value in a
+linear regression model.
+
+8. Describe the relationship between the Poisson
+distribution and the Exponential distribution.
+
+9. What distribution is typically used to estimate the
+mean of a normally distributed population when its
+standard deviation is unknown?
+
+10. Fill in the gap: Maximum Likelihood Estimation
+typically uses a ________ approximation of the log-
+likelihood function.
+
+11. Fill in the gap: A multivariate model is a model
+involving more than one ______ variable.
+
+12. Fill in the gap: Any ________ transformation of a
+normally distributed variable is also normally
+distributed.
+
+13. Fill in the gap: _________ regression can be used
+to specify the conditional median function of a
+dependent variable.
+
+14. What is the common term for the difference between
+the means of two samples, divided by the standard
+deviation of the combined samples?
+
+15. In typical statistical model outputs, what does
+three asterisks (***) usually represent?
+
+
+The Answers
+
+1. Variance
+
+2. The denominator in a population standard deviation
+is the population size. The denominator in a sample
+standard deviation is the sample size minus 1. This is
+known as Bessel’s correction, to correct a bias of
+underestimation of the variance of the population. As
+samples get larger this difference becomes less
+important.
+
+3. Chi-square test
+
+4. Of unequal variance
+
+5. Bayes’ Theorem
+
+6. Any one from: a) the dependent variable is not
+continuous, b) the dependent variable is bounded in
+scale, c) you would be interpreting an ordinal
+variable as a continuous variable.
+
+7. Calculate the sum of the squared residuals of the
+model, then calculate the variance of the dependent
+variable. Divide the two and subtract from 1.
+
+8. Both deal with the likelihood of occurrences of an
+event over time. Poisson deals with the number of
+occurrences in a fixed period of time, while
+exponential deals with the time between successive
+occurrences.
+
+9. The t-distribution
+
+10. Quadratic
+
+11. Dependent (or outcome/response/target)
+
+12. Linear
+
+13. Quantile
+
+14. Effect size (or Cohen’s effect size or Cohen’s d)
+
+15. It indicates that the p-value of the associated
+hypothesis test is less than 0.001.
+
+How did you do?
+
+You scored 0–3. Hmmm, you really need to do some work
+on your stats knowledge so you have a better idea of
+what’s going on in your modeling.
+
+You scored 4–6. You know some of the basics, but you
+could do with strengthening your knowledge, especially
+if you are doing more than simple descriptive
+statistics.
+
+You scored 7–10. Not bad at at all. You are clearly no
+slouch when it comes to stats. There’s room for
+improvement though.
+
+You scored 11–13. Very impressive, your statistical
+knowledge means you must be a go to person for many of
+your colleagues. Nice work!
+
+You scored 14–15. Wow! You hit this out of the park.
+Walk tall in the knowledge that you are a true
+statistics expert!
+
+
+
